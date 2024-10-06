@@ -21,6 +21,13 @@ export default function App() {
           mortgageType={mortgageType}
           allClear={allClear}
         />
+        {/* Results */}
+        <Results
+          monthlyRepayment={monthlyRepayment}
+          totalRepayment={totalRepayment}
+          allClear={allClear}
+          mortgageType={mortgageType}
+        />
       </div>
     </div>
   );
