@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.6aec2244.css",
-    "main.js": "/static/js/main.509d41c1.js",
-    "index.html": "/index.html",
-    "main.6aec2244.css.map": "/static/css/main.6aec2244.css.map",
-    "main.509d41c1.js.map": "/static/js/main.509d41c1.js.map"
+    "main.css": "/Mortgage-Repayment-Calculator-Solution/static/css/main.6aec2244.css",
+    "main.js": "/Mortgage-Repayment-Calculator-Solution/static/js/main.509d41c1.js",
+    "index.html": "/Mortgage-Repayment-Calculator-Solution/index.html",
+    "main.6aec2244.css.map": "/Mortgage-Repayment-Calculator-Solution/static/css/main.6aec2244.css.map",
+    "main.509d41c1.js.map": "/Mortgage-Repayment-Calculator-Solution/static/js/main.509d41c1.js.map"
   },
   "entrypoints": [
     "static/css/main.6aec2244.css",
